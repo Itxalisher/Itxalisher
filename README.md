@@ -11,7 +11,9 @@ I am full stack development looking to solve real world problems.I have passion 
 💞️ I’m looking to collaborate on Web Development and Web Designing.
 
 📫 Get In Touch:
+
   Twitter : https://twitter.com/@chalisher5
+  
    Mail : chalisherali@gmail.com
 <!---
 Itxalisher/Itxalisher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
